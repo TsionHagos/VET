@@ -19,7 +19,7 @@ $ vet --explain "anything"
 > done.
 ```
 
-**[ LIVE DEMO ](https://your-deployed-app-url.streamlit.app)**
+**[ LIVE DEMO ](https://vet-tsion.streamlit.app/)**
 
 *(replace with your actual deployed Streamlit URL)*
 
@@ -231,20 +231,25 @@ $ deploy --target streamlit-community-cloud
 ```
 
 ```
-> live_url: https://your-deployed-app-url.streamlit.app
+> live_url: https://vet-tsion.streamlit.app/
 ```
 
 ## 11. Screenshots
 
-```
-[ TODO: add screenshots ]
+**Translator**
+![Translator](docs/screenshots/translator.png)
 
-docs/screenshots/translator.png
-docs/screenshots/voice_vet.png
-docs/screenshots/visual_vet.png
-docs/screenshots/compare.png
-docs/screenshots/dashboard.png
-```
+**Voice VET**
+![Voice VET](docs/screenshots/voice_vet.png)
+
+**Visual VET**
+![Visual VET](docs/screenshots/visual_vet.png)
+
+**Compare**
+![Compare](docs/screenshots/compare.png)
+
+**Dashboard**
+![Dashboard](docs/screenshots/dashboard.png)
 
 ## 12. Future Improvements
 
