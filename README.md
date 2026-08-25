@@ -21,7 +21,9 @@ $ vet --explain "anything"
 
 **[ LIVE DEMO ](https://vet-tsion.streamlit.app/)**
 
-**[ 💼 LINKEDIN POST ](https://lnkd.in/p/gVK7Y9aX)**
+**[ DEMO VIDEO ](https://drive.google.com/file/d/104ocJtxfeQ7LbzmyUstVuP6YzPaRe-X7/view?usp=sharing)**
+
+**[ LINKEDIN POST ](https://lnkd.in/p/gVK7Y9aX)**
 
 ────────────────────────────
 
