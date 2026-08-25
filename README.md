@@ -21,6 +21,7 @@ $ vet --explain "anything"
 
 **[ LIVE DEMO ](https://vet-tsion.streamlit.app/)**
 
+**[ 💼 LINKEDIN POST ](https://lnkd.in/p/gVK7Y9aX)**
 
 ────────────────────────────
 
@@ -266,4 +267,28 @@ $ deploy --target streamlit-community-cloud
 
 ```
 $ echo "built with very easy intentions."
+```
+## 13. Sources
+
+```
+> references consulted during development
+
+Streamlit
+https://docs.streamlit.io
+> used for the entire UI: st.navigation, st.form,
+> st.session_state, st.metric, st.data_editor,
+> st.audio_input, st.camera_input, st.bar_chart
+
+Gemini API - Get an API Key
+https://aistudio.google.com/app/apikey
+> used to generate the GEMINI_API_KEY
+
+Pandas
+https://pandas.pydata.org/docs
+> used for history/dashboard data aggregation
+> (DataFrame, .value_counts(), .nunique(), .mean())
+
+Streamlit Community Cloud
+https://share.streamlit.io
+> used for live deployment
 ```
