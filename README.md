@@ -21,7 +21,6 @@ $ vet --explain "anything"
 
 **[ LIVE DEMO ](https://vet-tsion.streamlit.app/)**
 
-*(replace with your actual deployed Streamlit URL)*
 
 ────────────────────────────
 
