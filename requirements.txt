@@ -1,0 +1,3 @@
+stremlit
+pandas
+google-genai
